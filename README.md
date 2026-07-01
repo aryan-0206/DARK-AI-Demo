@@ -4,8 +4,6 @@
 
 ### Your Personal AI Agent for Productivity, Automation & Intelligent Assistance
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Welcome+to+DARK+AI;Your+Personal+AI+Agent;Built+with+Python+%26+Flask;Voice+Commands+%7C+Automation+%7C+AI;Created+by+Aryan+Rajbhar+🚀" />
-
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
